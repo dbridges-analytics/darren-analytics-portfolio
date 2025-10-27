@@ -43,6 +43,6 @@ Open to Remote or Virginia Beach, VA.
 
 ## 🤝 Connect With Me
 
-📩 **Email:** your-email-here  
-🔗 **LinkedIn:** your-linkedin-url-here  
+📩 **Email:** bridgesdarren87@gmail.com  
+🔗 **LinkedIn:**   
 
