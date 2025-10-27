@@ -1,0 +1,6 @@
+txn_id,customer_id,txn_ts,amount,merchant_cat,channel,fraud_flag,chargeback_flag
+1,1,2024-01-06 03:12:00,425.33,Online,Ecom,1,0
+2,2,2024-01-06 13:29:00,45.20,Dining,POS,0,0
+3,1,2024-01-07 01:44:00,520.10,Electronics,Ecom,1,1
+4,3,2024-01-07 09:22:00,17.88,Grocery,POS,0,0
+5,4,2024-01-08 23:01:00,92.47,Fuel,POS,0,0
